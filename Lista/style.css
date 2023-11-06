@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 8px;
+}
+
+body{
+    display: flex;
+}
+
+.entrada{
+    color: yellowgreen;
+    font-size: 15pt;
+}
